@@ -1,0 +1,64 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Program1.cs" />
+    <Compile Remove="Program10.cs" />
+    <Compile Remove="Program11.cs" />
+    <Compile Remove="Program12.cs" />
+    <Compile Remove="Program13.cs" />
+    <Compile Remove="Program14.cs" />
+    <Compile Remove="Program15.cs" />
+    <Compile Remove="Program16.cs" />
+    <Compile Remove="Program17.cs" />
+    <Compile Remove="Program18.cs" />
+    <Compile Remove="Program19.cs" />
+    <Compile Remove="Program2.cs" />
+    <Compile Remove="Program20.cs" />
+    <Compile Remove="Program21.cs" />
+    <Compile Remove="Program22.cs" />
+    <Compile Remove="Program23.cs" />
+    <Compile Remove="Program24.cs" />
+    <Compile Remove="Program3.cs" />
+    <Compile Remove="Program4.cs" />
+    <Compile Remove="Program5.cs" />
+    <Compile Remove="Program6.cs" />
+    <Compile Remove="Program7.cs" />
+    <Compile Remove="Program8.cs" />
+    <Compile Remove="Program9.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Program1.cs" />
+    <None Include="Program10.cs" />
+    <None Include="Program11.cs" />
+    <None Include="Program12.cs" />
+    <None Include="Program13.cs" />
+    <None Include="Program14.cs" />
+    <None Include="Program15.cs" />
+    <None Include="Program16.cs" />
+    <None Include="Program17.cs" />
+    <None Include="Program18.cs" />
+    <None Include="Program19.cs" />
+    <None Include="Program2.cs" />
+    <None Include="Program20.cs" />
+    <None Include="Program21.cs" />
+    <None Include="Program22.cs" />
+    <None Include="Program23.cs" />
+    <None Include="Program24.cs" />
+    <None Include="Program3.cs" />
+    <None Include="Program4.cs" />
+    <None Include="Program5.cs" />
+    <None Include="Program6.cs" />
+    <None Include="Program7.cs" />
+    <None Include="Program8.cs" />
+    <None Include="Program9.cs" />
+  </ItemGroup>
+
+</Project>
